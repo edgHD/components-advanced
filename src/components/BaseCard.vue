@@ -1,5 +1,7 @@
 <template>
-    <slot>{{ content }}</slot>
+    <div>
+        <slot></slot>
+    </div>
 </template>
 
 <script>
