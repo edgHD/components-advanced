@@ -9,7 +9,7 @@
     />
   </div>
 </template>
-
+<!-- Commiting a message with changes made :P -->
 <script>
 import TheHeader from './components/TheHeader.vue';
 import UserInfo from './components/UserInfo.vue';
