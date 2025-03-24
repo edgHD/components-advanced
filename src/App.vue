@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import TheHeader from './components/TheHeader.vue';
+import TheHeader from './components/Layout/TheHeader.vue';
 // import UserInfo from './components/UserInfo.vue';
 // import BadgeList from './components/BadgeList.vue';
 // import CourseGoals from './components/CourseGoals.vue';
@@ -29,7 +29,7 @@ export default {
     return {
       selectedComponent: 'active-goals',
       activeUser: {
-        name: 'Maximilian Schwarzmüller',
+        name: 'Edgar',
         description: 'Site owner and admin',
         role: 'admin',
       },
